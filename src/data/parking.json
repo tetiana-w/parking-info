@@ -1,0 +1,283 @@
+{
+   "type":"FeatureCollection",
+   "name":"points",
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:EPSG:4326"
+      }
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "id":1,
+            "name":"Parkhaus Theatergarage",
+            "address":"Burgstraße 6-10, 26122 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"mon - son",
+            "isFee":"true",
+            "price":"2.50",
+            "status":"open",
+            "parkingSpace":"84",
+            "parkingSpaceFree":"34",
+            "Handicapped":"1",
+            "type":"parkhaus",
+            "heightMax":"2",
+            "parkdecks":"2",
+            "isWatched":"on",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.21054,
+               53.13978               
+            ]
+         }
+      },   
+      {
+         "type":"Feature",
+         "properties":{
+            "id":3,
+            "name":"P+R Landwehrstraße ",
+            "address":"Landwehrstraße, 26135 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"mon - son",
+            "isFee":"false",
+            "price":"0",
+            "status":"open",
+            "parkingSpace":"127",
+            "parkingSpaceFree":"25",
+            "Handicapped":"0",
+            "type":"parkplatz",
+            "heightMax":"3",
+            "parkdecks":"1",
+            "isWatched":"off",
+            "parkNride":"true"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.220793,
+               53.123935
+            ]
+         }
+      },  
+  
+      {
+         "type":"Feature",
+         "properties":{
+            "id":4,
+            "name":"P+R Prinzessinenweg ",
+            "address":"Prinzessinenweg 100, 26122 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"mon - son",
+            "isFee":"false",
+            "price":"0",
+            "status":"open",
+            "parkingSpace":"202",
+            "parkingSpaceFree":"175",
+            "Handicapped":"0",
+            "type":"parkplatz",
+            "heightMax":"3",
+            "parkdecks":"1",
+            "isWatched":"off",
+            "parkNride":"true"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.192389,
+               53.134627
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":5,
+            "name":"Parkplatz Rosenstraße ",
+            "address":"Rosenstraße 10-12, 26122 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"mon - son",
+            "isFee":"false",
+            "price":"1.20",
+            "status":"open",
+            "parkingSpace":"50",
+            "parkingSpaceFree":"5",
+            "Handicapped":"4",
+            "type":"parkplatz",
+            "heightMax":"3",
+            "parkdecks":"1",
+            "isWatched":"off",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.219048,
+               53.142932
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":6,
+            "name":"Parkhaus am ZOB",
+            "address":"Karlstraße 25, 26123 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"mon - son",
+            "isFee":"true",
+            "price":"0.75",
+            "status":"open",
+            "parkingSpace":"358",
+            "parkingSpaceFree":"189",
+            "Handicapped":"4",
+            "type":"parkhaus",
+            "heightMax":"1.90",
+            "parkdecks":"6",
+            "isWatched":"on",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.224467,
+               53.145121
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":7,
+            "name":"Parkhaus Schlosshöfe Oldenburg",
+            "address":"Schloßplatz 3, 26122 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"mon - son",
+            "isFee":"true",
+            "price":"1.05",
+            "status":"open",
+            "parkingSpace":"430",
+            "parkingSpaceFree":"350",
+            "Handicapped":"14",
+            "type":"parkhaus",
+            "heightMax":"2",
+            "parkdecks":"4",
+            "isWatched":"on",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.216912,
+               53.139022
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":8,
+            "name":"City-Parkhaus Staulinie",
+            "address":"Staulinie 10, 26122 Oldenburg",
+            "open":"7",
+            "close":"20",
+            "is24hOpen":"false",
+            "openDays":"mon - sam",
+            "isFee":"true",
+            "price":"1.00",
+            "status":"closed",
+            "parkingSpace":"420",
+            "parkingSpaceFree":"420",
+            "Handicapped":"2",
+            "type":"parkhaus",
+            "heightMax":"1.90",
+            "parkdecks":"8",
+            "isWatched":"on",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.2149653,
+               53.1418363
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":9,
+            "name":"Parkhaus am Waffenplatz",
+            "address":"Waffenplatz 4, 26122 Oldenburg",
+            "open":"6",
+            "close":"21",
+            "is24hOpen":"false",
+            "openDays":"mon - sam",
+            "isFee":"true",
+            "price":"1.20",
+            "status":"closed",
+            "parkingSpace":"550",
+            "parkingSpaceFree":"550",
+            "Handicapped":"2",
+            "type":"parkhaus",
+            "heightMax":"2.10",
+            "parkdecks":"10",
+            "isWatched":"on",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.211096,
+               53.141627
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":10,
+            "name":"Parkplatz Cäcilienschule / Haarenufer ",
+            "address":"Haarenufer 10, 26122 Oldenburg",
+            "open":"0",
+            "close":"24",
+            "is24hOpen":"true",
+            "openDays":"sam",
+            "isFee":"true",
+            "price":"1.00",
+            "status":"closed",
+            "parkingSpace":"32",
+            "parkingSpaceFree":"8",
+            "Handicapped":"1",
+            "type":"parkplatz",
+            "heightMax":"3",
+            "parkdecks":"1",
+            "isWatched":"off",
+            "parkNride":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               8.203998,
+               53.141167
+            ]
+         }
+      }
+   ]
+}

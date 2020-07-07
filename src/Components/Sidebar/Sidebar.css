@@ -1,0 +1,48 @@
+.sidenav {
+    height: 100%;
+    width: 350px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(83, 91, 99);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding: 60px 15px 5px 20px;
+    color: white;    
+  }
+  .sidenav h2 {
+    color: rgb(169, 202, 230);
+    margin-bottom: 5px;
+  }
+  .sidenav .icons {
+    margin: 15px 0;
+  }
+  .sidenav .label-sidebar {
+    font-size: 16px;
+  }
+  .second-block {
+    padding: 2px;
+  }
+    
+  @media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;        
+    }  
+    .sidenav a {
+        font-size: 18px;
+    }
+  }
+ 
+  .sidenav .main-block {
+    margin: 20px 0px;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto auto;
+    gap: 1px 1px;
+    grid-template-areas: ". ." ". ." ". .";
+    margin-top: 20px;
+  }

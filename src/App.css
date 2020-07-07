@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+  z-index: 0;
+}
