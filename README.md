@@ -1,5 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+This is a small Map based app (made with React and Leaflet) that shows some information about parking spaces.
 
+<p align="center">
+  <img src="https://github.com/tetiana-w/parking-info/blob/master/project_screenshot.png" width="800" title="Parking"> 
+</p>
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
